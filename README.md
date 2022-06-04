@@ -4,7 +4,7 @@
 <br>
 <div id = "badges" align = "center">
   <a href = "https://vk.com/id402986828">
-    <img src = "https://free-png.ru/wp-content/uploads/2020/04/VK_Monochrome_Logo_t.png" alt = "Vk badge" width = "10%">
+    <img src = "https://icon-library.com/images/vk-icon-png/vk-icon-png-16.jpg" alt = "Vk badge" width = "10%">
   </a>
   <a href = "https://replit.com/@Asacos">
     <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbJVEHStFqnsJholaHdG01yJ2Nc785E291iqncXMGmUu_WTQdzOWZ52fz2BoWbH4IcG0s&usqp=CAU" alt = "Replit badge" width = "10%">
