@@ -13,8 +13,8 @@
     <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0rovavysmteXibj6GF3w13z6AAFHeRyx_w&usqp=CAU" alt = "Youtube badge" width = "10%">
   </a>
   <br>
-  <!-- <img src= "https://komarev.com/ghpvc/?username=asacos&style=flat-square&color=green" alt=""/> -->
 </div>
+
 ___ 
 
 ### :hammer_and_wrench: Languages and Tools :
