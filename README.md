@@ -39,9 +39,6 @@ ___
 
 ___
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asacos&theme=dark&background=000000)](https://git.io/streak-stats)
-
 <!-- ___
 
 ### :writing_hand: Working on :
