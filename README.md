@@ -13,16 +13,8 @@
     <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0rovavysmteXibj6GF3w13z6AAFHeRyx_w&usqp=CAU" alt = "Youtube badge" width = "10%">
   </a>
   <br>
-  <img src= "https://komarev.com/ghpvc/?username=asacos&style=flat-square&color=green" alt=""/>
+  <!-- <img src= "https://komarev.com/ghpvc/?username=asacos&style=flat-square&color=green" alt=""/> -->
 </div>
-
-<!-- ___
-<div align = "center">
-  <img src = "https://media3.giphy.com/media/g06HKnMmtK1aXurndU/giphy.gif?cid=ecf05e47v5yy50a7xkpsod565778ommzqjjaxpom6v74l5jg&rid=giphy.gif&ct=g" width="50%">
-</div>
-
-### :man_technologist: About Me :
--->
 ___ 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -36,11 +28,3 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
-
-___
-
-<!-- ___
-
-### :writing_hand: Working on :
-
--->
