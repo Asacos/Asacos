@@ -9,9 +9,6 @@
   <a href = "https://replit.com/@Asacos">
     <img src = "https://replit.com/public/icons/apple-icon-180.png" alt = "Replit badge" width = "10%">
   </a>
-  <a href = "https://www.youtube.com/channel/UCGHaktu9P47raSM8wJdTQzw">
-    <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0rovavysmteXibj6GF3w13z6AAFHeRyx_w&usqp=CAU" alt = "Youtube badge" width = "10%">
-  </a>
   <br>
 </div>
 
