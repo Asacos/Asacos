@@ -2,15 +2,6 @@
   <img src = "https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width = "40%">
 </div>
 <br>
-<div id = "badges" align = "center">
-  <a href = "https://vk.com/id402986828">
-    <img src = "https://icon-library.com/images/vk-icon-png/vk-icon-png-16.jpg" alt = "Vk badge" width = "10%">
-  </a>
-  <a href = "https://replit.com/@Asacos">
-    <img src = "https://replit.com/public/icons/apple-icon-180.png" alt = "Replit badge" width = "10%">
-  </a>
-  <br>
-</div>
 
 <!--
 ___ 
